@@ -31,7 +31,7 @@ var smoke = new THREE.Object3D();
 var town = new THREE.Object3D();
 
 var createCarPos = true;
-var uSpeed = 0.0009;
+var uSpeed = 0.0015;
 
 //----------------------------------------------------------------- FOG background
 
